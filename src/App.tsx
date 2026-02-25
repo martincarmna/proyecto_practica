@@ -3,3 +3,4 @@ export function App(){
         <h1>team </h1>
     )
 }
+export default App;
